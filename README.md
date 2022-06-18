@@ -1,5 +1,5 @@
 # HacMan!
-HacMan is a two-player competitive coding game designed to help teach programming concepts to kids. It features online matches and an interactive drag-and-drop coding UI used to move robots around a board. Check our [Wiki](https://github.com/cs130-w21/13/wiki) for more information!
+HacMan is a two-player competitive coding game designed to help teach programming concepts to kids. It features online matches and an interactive drag-and-drop coding UI used to move robots around a board. 
 
 [![Server Build Status](https://travis-ci.com/cs130-w21/13.svg?branch=master)](https://travis-ci.com/cs130-w21/13)
 [Link to Server](https://cs130-hacman.herokuapp.com/)
